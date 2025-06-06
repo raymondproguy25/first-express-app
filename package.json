@@ -1,0 +1,15 @@
+{
+  "name": "first-express-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is the proguy's fisrt express app",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server"
+  },
+  "author": "raymondproguy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
