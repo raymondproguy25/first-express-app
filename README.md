@@ -2,6 +2,7 @@ First Express.js App (Mobile)
 
 My first Express.js backend app — fully built on Android using Termux + Neovim.
 
+Its my journey - own it confidently
 Im also known as the terminal-dev.
 
 🔧 Tech Stack
